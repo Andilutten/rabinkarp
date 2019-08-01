@@ -1,4 +1,4 @@
-module rabinkarp
+module github.com/Andilutten/rabinkarp
 
 go 1.12
 
